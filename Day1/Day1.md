@@ -1,4 +1,3 @@
-
 day 1: Git & Version Control Fundamentals
 =========================================
 #1. Distributed Version Control System (DVCS) vs. Centralized Version Control System (CVCS)
@@ -140,7 +139,7 @@ View full commit history:
 View compact commit history:
 ----------------------------
 
-    git log --oneline
+   --> git log --oneline
 
 
 
